@@ -1,0 +1,3 @@
+[submodule "python-intro-ds"]
+	path = python-intro-ds
+	url = git@github.com:mapra99/python-intro-ds.git
