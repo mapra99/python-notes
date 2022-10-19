@@ -1,3 +1,6 @@
 [submodule "python-intro-ds"]
 	path = python-intro-ds
 	url = git@github.com:mapra99/python-intro-ds.git
+[submodule "python-intermediate-ds"]
+	path = python-intermediate-ds
+	url = git@github.com:mapra99/python-intermediate-ds.git
